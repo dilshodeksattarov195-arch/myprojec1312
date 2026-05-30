@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvonnect",
+        "uuid": 8343008,
+        "checksum": "r8gryx"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
